@@ -14,3 +14,5 @@ UM breve vídeo de pouco mais de 40 segundos.
 
 ## 💭 Reflexão (Opcional)
 Texto criado através do ChatoGPT baseando-se na falta de interesse de algumas escolas em implementar a programação em sua grade curricular.
+
+Link para o vídeo aqui: https://studio.d-id.com/share?id=ac6ff303c3532c74df91ca20130cb840&utm_source=copy
